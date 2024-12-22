@@ -24,6 +24,11 @@ function Portfolio(props) {
     {
       name: "Node.js API server",
       link: "https://github.com/meyer985/movies-explorer-api",
+    },
+
+    {
+      name: "SIE-Logistics multi-page application",
+      link: "https://enchanting-salamander-1f806c.netlify.app/",
     }
   ];
 
