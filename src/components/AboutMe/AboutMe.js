@@ -23,7 +23,7 @@ function AboutMe(props) {
             Languages: English (business proficient), Russian (native)
           </p>
           <p className="student__info">
-            I was born and studied in St. Petersburg, Russia. For the last 8 years I have worked in a field of logistics, customs clearance and international trade. Being long interested in IT i graduated following courses: Yandex Practicum (WEB-developer, 2021-2022), Stepik (Advanced Java Script: 2024). In the meantime I worked on my own projects, studying new technologies. My goal is to run IT projects, enhancing technical skill in addition to my previous business operation experience.
+          I was born and educated in St. Petersburg, Russia. Over the past 8 years, I have worked in logistics, customs clearance, and international trade. Being long interested in IT, I completed the following courses: Yandex Practicum (Web Development, 2021–2022) and Stepik (Advanced JavaScript, 2024). In parallel, I worked on my own projects, exploring new technologies. My goal is to manage IT projects while enhancing my technical skills and leveraging my previous experience in business operations.
           </p>
           <span contacts>
             <p className="student__info contact">Contacts:</p>
